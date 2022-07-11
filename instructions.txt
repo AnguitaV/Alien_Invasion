@@ -1,0 +1,7 @@
+Alien Invasion:
+- In this game  the player controls a rocket ship that appears at the bottom center of the screen.
+- The ship moves right or left with the arrow keys, and shoots bullets with the space bar.
+- When the game begins a fleet of aliens appears and moves down the screen.
+- If you shoot all the aliens out of the sky a new, faster, fleet appears.
+- If an alien reaches the bottom of the screen or hits the player's ship, a ship is lost.
+- If you lose 3 ships GAME OVER.
